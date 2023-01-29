@@ -1,1 +1,1 @@
-## a folder for the lil games and tools I made. 
+## a folder for the tiny games and tools I made. 
